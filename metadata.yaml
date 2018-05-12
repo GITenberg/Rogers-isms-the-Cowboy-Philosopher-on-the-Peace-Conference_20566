@@ -1,0 +1,31 @@
+_repo: Rogers-isms-the-Cowboy-Philosopher-on-the-Peace-Conference_20566
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, Will
+    alias: Rogers, William Penn Adair
+    birthdate: 1879
+    deathdate: 1935
+    gutenberg_agent_id: '9392'
+    url: http://www.gutenberg.org/2009/agents/9392
+    wikipedia: http://en.wikipedia.org/wiki/Will_Rogers
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20566'
+  lccn: '19010076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris Peace Conference (1919-1920) -- Humor'
+- !lcsh 'World War, 1914-1918 -- Humor'
+- !lcc 'D501'
+title: Rogers-isms, the Cowboy Philosopher on the Peace Conference
+url: http://www.gutenberg.org/ebooks/20566
